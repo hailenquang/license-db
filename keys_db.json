@@ -3,13 +3,5 @@
     "hwid": "",
     "expire": "2025-12-26",
     "active": true
-  },
-  "FBTOOL-QVEYT-OMOLT-5UUY": {
-    "hwid": "d8b26c0f2d4b7045ad74bb5895e09447cceec6a64e3b93402296ba4f30ab7ccd",
-    "pc_name": "DESKTOP-4HSUPVV",
-    "first_active": "2025-12-15",
-    "last_check": "2025-12-15",
-    "expire": "2026-01-01",
-    "active": true
   }
 }
