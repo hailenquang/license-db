@@ -16,10 +16,10 @@
     "active": true
   },
   "FBTOOL-IAS1K-IGEMX-JE0P": {
-    "hwid": "",
-    "pc_name": "",
-    "first_active": "",
-    "last_check": "",
+    "hwid": "5514c6de7195f8eff022d7550dfb4299e110dfd78a134ea003d881d31d82b1f0",
+    "pc_name": "DESKTOP-4HSUPVV",
+    "first_active": "2025-12-19",
+    "last_check": "2025-12-19T02:10:28.979531",
     "expire": "2026-01-01",
     "active": true
   }
