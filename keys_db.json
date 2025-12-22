@@ -16,10 +16,10 @@
     "active": true
   },
   "FBTOOL-64MQU-HQJ1F-4RY9": {
-    "hwid": "",
-    "pc_name": "",
-    "first_active": "",
-    "last_check": "",
+    "hwid": "7e3f824ec1581507bd7567949ad9e5da9e6cb3123d22452e92a2140aa1075056",
+    "pc_name": "Admin-PC",
+    "first_active": "2025-12-22",
+    "last_check": "2025-12-22T12:50:44.621803",
     "expire": "2026-01-01",
     "active": true
   }
