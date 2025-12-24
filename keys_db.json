@@ -22,5 +22,13 @@
     "last_check": "2025-12-22T12:50:44.621803",
     "expire": "2026-01-01",
     "active": true
+  },
+  "FBTOOL-XEMOX-U8E02-C0T5": {
+    "hwid": "",
+    "pc_name": "",
+    "first_active": "",
+    "last_check": "",
+    "expire": "2026-01-01",
+    "active": true
   }
 }
