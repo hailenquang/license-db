@@ -46,5 +46,13 @@
     "last_check": "2025-12-25T00:18:27.352944",
     "expire": "2026-01-01",
     "active": true
+  },
+  "FBTOOL-G7JDM-N8DEQ-NORT": {
+    "hwid": "",
+    "pc_name": "",
+    "first_active": "",
+    "last_check": "",
+    "expire": "2026-01-01",
+    "active": true
   }
 }
