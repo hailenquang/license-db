@@ -32,10 +32,10 @@
     "active": true
   },
   "FBTOOL-1ARIT-90F72-5LT2": {
-    "hwid": "",
-    "pc_name": "",
-    "first_active": "",
-    "last_check": "",
+    "hwid": "0a9af5ecd2a89a3d2408cff99108f464eff0a33a75a0cec989c4dee86f615216",
+    "pc_name": "Admin-PC",
+    "first_active": "2025-12-25",
+    "last_check": "2025-12-25T14:45:52.224714",
     "expire": "2026-01-01",
     "active": true
   },
