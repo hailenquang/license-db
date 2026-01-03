@@ -1,12 +1,4 @@
 {
-  "FBTOOL-1ARIT-90F72-5LT2": {
-    "hwid": "0a9af5ecd2a89a3d2408cff99108f464eff0a33a75a0cec989c4dee86f615216",
-    "pc_name": "Admin-PC",
-    "first_active": "2025-12-25",
-    "last_check": "2025-12-25T14:45:52.224714",
-    "expire": "2026-01-01",
-    "active": true
-  },
   "FBTOOL-M74KJ-C6OJ5-YOES": {
     "hwid": "a06d2aadc2771422a9cf6bbe5b774c26de017ec01cff0f8391e4a1f802067021",
     "pc_name": "DESKTOP-LJA163I",
