@@ -1,12 +1,4 @@
 {
-  "FBTOOL-XEMOX-U8E02-C0T5": {
-    "hwid": "33e3dc874444d518034e106eb54b027f4c6d92ab537433258949b164f112d78b",
-    "pc_name": "DESKTOP-DGJAQ5U",
-    "first_active": "2025-12-24",
-    "last_check": "2025-12-24T18:27:42.532263",
-    "expire": "2026-01-01",
-    "active": true
-  },
   "FBTOOL-1ARIT-90F72-5LT2": {
     "hwid": "0a9af5ecd2a89a3d2408cff99108f464eff0a33a75a0cec989c4dee86f615216",
     "pc_name": "Admin-PC",
