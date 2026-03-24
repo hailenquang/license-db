@@ -38,5 +38,13 @@
     "last_check": "2026-03-24T22:43:54.011164",
     "expire": "2029-01-01",
     "active": true
+  },
+  "FBTOOL-WTDQD-GRM3J-P8V4": {
+    "hwid": "",
+    "pc_name": "",
+    "first_active": "",
+    "last_check": "",
+    "expire": "2026-01-01",
+    "active": true
   }
 }
