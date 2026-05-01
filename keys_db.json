@@ -46,5 +46,13 @@
     "last_check": "2026-03-30T17:51:18.139277",
     "expire": "2029-01-01",
     "active": true
+  },
+  "FBTOOL-R0QD6-7ZDN5-YFOL": {
+    "hwid": "",
+    "pc_name": "",
+    "first_active": "",
+    "last_check": "",
+    "expire": "2026-01-01",
+    "active": true
   }
 }
